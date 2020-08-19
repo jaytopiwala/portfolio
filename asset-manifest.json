@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/jaytopiwala-portfolio/static/css/main.a0ebab53.chunk.css",
+    "main.js": "/jaytopiwala-portfolio/static/js/main.aca2003a.chunk.js",
+    "main.js.map": "/jaytopiwala-portfolio/static/js/main.aca2003a.chunk.js.map",
+    "runtime-main.js": "/jaytopiwala-portfolio/static/js/runtime-main.b93e8df9.js",
+    "runtime-main.js.map": "/jaytopiwala-portfolio/static/js/runtime-main.b93e8df9.js.map",
+    "static/js/2.514ba988.chunk.js": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js",
+    "static/js/2.514ba988.chunk.js.map": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js.map",
+    "index.html": "/jaytopiwala-portfolio/index.html",
+    "precache-manifest.c89304114e797433c72f6c9607a30222.js": "/jaytopiwala-portfolio/precache-manifest.c89304114e797433c72f6c9607a30222.js",
+    "service-worker.js": "/jaytopiwala-portfolio/service-worker.js",
+    "static/css/main.a0ebab53.chunk.css.map": "/jaytopiwala-portfolio/static/css/main.a0ebab53.chunk.css.map",
+    "static/js/2.514ba988.chunk.js.LICENSE.txt": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js.LICENSE.txt",
+    "static/media/apollo.jpg": "/jaytopiwala-portfolio/static/media/apollo.90287316.jpg",
+    "static/media/banner.jpeg": "/jaytopiwala-portfolio/static/media/banner.5590bcc8.jpeg",
+    "static/media/cops.jpeg": "/jaytopiwala-portfolio/static/media/cops.72488190.jpeg",
+    "static/media/creativeops.jpg": "/jaytopiwala-portfolio/static/media/creativeops.47ffa984.jpg",
+    "static/media/designsprint1.jpg": "/jaytopiwala-portfolio/static/media/designsprint1.f17a76a0.jpg",
+    "static/media/designsprint2.jpg": "/jaytopiwala-portfolio/static/media/designsprint2.16ace134.jpg",
+    "static/media/email.png": "/jaytopiwala-portfolio/static/media/email.f71a07e2.png",
+    "static/media/google.jpeg": "/jaytopiwala-portfolio/static/media/google.1811dc00.jpeg",
+    "static/media/headshot.jpg": "/jaytopiwala-portfolio/static/media/headshot.f09f5b70.jpg",
+    "static/media/payments.jpeg": "/jaytopiwala-portfolio/static/media/payments.c7d0cdca.jpeg",
+    "static/media/pep.png": "/jaytopiwala-portfolio/static/media/pep.3793e5c6.png",
+    "static/media/projectmgmt.jpeg": "/jaytopiwala-portfolio/static/media/projectmgmt.05412805.jpeg",
+    "static/media/psd2.gif": "/jaytopiwala-portfolio/static/media/psd2.ab7be956.gif",
+    "static/media/psd2tool.png": "/jaytopiwala-portfolio/static/media/psd2tool.04724984.png",
+    "static/media/sanmina.png": "/jaytopiwala-portfolio/static/media/sanmina.3f9d9631.png",
+    "static/media/secureauth.png": "/jaytopiwala-portfolio/static/media/secureauth.ef8d6f3e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b93e8df9.js",
+    "static/js/2.514ba988.chunk.js",
+    "static/css/main.a0ebab53.chunk.css",
+    "static/js/main.aca2003a.chunk.js"
+  ]
+}
