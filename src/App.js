@@ -3,7 +3,6 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import {Home} from './Home';
 import {Work} from './Work';
 import {Resume} from './Resume';
-import {NoMatch} from './NoMatch';
 import {PaymentsProducts} from './PaymentsProducts';
 import {CreativeOperations} from './CreativeOperations';
 import {Sanmina} from './Sanmina';
@@ -31,7 +30,7 @@ class App extends Component {
 						<Route path ="/PaymentsProducts" component={PaymentsProducts} />
 						<Route path ="/CreativeOperations" component={CreativeOperations} />
 						<Route path ="/Sanmina" component={Sanmina} />
-						<Route component={NoMatch} />
+					
 					</Switch>
 				</Router>
 		</React.Fragment>
