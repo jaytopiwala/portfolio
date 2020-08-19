@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import {Home} from './Home';
 import {Work} from './Work';
 import {Resume} from './Resume';
@@ -24,12 +24,12 @@ class App extends Component {
     			</footer>
 				<Router>
 					<Switch>
-						<Route exact path="/portfolio" component={Home} />
-						<Route path="/Work" component = {Work} />
-						<Route path ="/Resume" component={Resume} />
-						<Route path ="/PaymentsProducts" component={PaymentsProducts} />
-						<Route path ="/CreativeOperations" component={CreativeOperations} />
-						<Route path ="/Sanmina" component={Sanmina} />
+						<Route exact path="/#/" component={Home} />
+						<Route path="/#/Work" component = {Work} />
+						<Route path ="/#/Resume" component={Resume} />
+						<Route path ="/#/PaymentsProducts" component={PaymentsProducts} />
+						<Route path ="/#/CreativeOperations" component={CreativeOperations} />
+						<Route path ="/#/Sanmina" component={Sanmina} />
 					
 					</Switch>
 				</Router>
