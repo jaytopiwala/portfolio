@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/jaytopiwala-portfolio/static/css/main.a0ebab53.chunk.css",
-    "main.js": "/jaytopiwala-portfolio/static/js/main.aca2003a.chunk.js",
-    "main.js.map": "/jaytopiwala-portfolio/static/js/main.aca2003a.chunk.js.map",
+    "main.js": "/jaytopiwala-portfolio/static/js/main.827df56c.chunk.js",
+    "main.js.map": "/jaytopiwala-portfolio/static/js/main.827df56c.chunk.js.map",
     "runtime-main.js": "/jaytopiwala-portfolio/static/js/runtime-main.b93e8df9.js",
     "runtime-main.js.map": "/jaytopiwala-portfolio/static/js/runtime-main.b93e8df9.js.map",
-    "static/js/2.514ba988.chunk.js": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js",
-    "static/js/2.514ba988.chunk.js.map": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js.map",
+    "static/js/2.b731ebcf.chunk.js": "/jaytopiwala-portfolio/static/js/2.b731ebcf.chunk.js",
+    "static/js/2.b731ebcf.chunk.js.map": "/jaytopiwala-portfolio/static/js/2.b731ebcf.chunk.js.map",
     "index.html": "/jaytopiwala-portfolio/index.html",
-    "precache-manifest.c89304114e797433c72f6c9607a30222.js": "/jaytopiwala-portfolio/precache-manifest.c89304114e797433c72f6c9607a30222.js",
+    "precache-manifest.582bfa73b1f2915643d742223a1c3ff9.js": "/jaytopiwala-portfolio/precache-manifest.582bfa73b1f2915643d742223a1c3ff9.js",
     "service-worker.js": "/jaytopiwala-portfolio/service-worker.js",
     "static/css/main.a0ebab53.chunk.css.map": "/jaytopiwala-portfolio/static/css/main.a0ebab53.chunk.css.map",
-    "static/js/2.514ba988.chunk.js.LICENSE.txt": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js.LICENSE.txt",
-    "static/media/apollo.jpg": "/jaytopiwala-portfolio/static/media/apollo.90287316.jpg",
+    "static/js/2.b731ebcf.chunk.js.LICENSE.txt": "/jaytopiwala-portfolio/static/js/2.b731ebcf.chunk.js.LICENSE.txt",
     "static/media/banner.jpeg": "/jaytopiwala-portfolio/static/media/banner.5590bcc8.jpeg",
     "static/media/cops.jpeg": "/jaytopiwala-portfolio/static/media/cops.72488190.jpeg",
     "static/media/creativeops.jpg": "/jaytopiwala-portfolio/static/media/creativeops.47ffa984.jpg",
@@ -31,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b93e8df9.js",
-    "static/js/2.514ba988.chunk.js",
+    "static/js/2.b731ebcf.chunk.js",
     "static/css/main.a0ebab53.chunk.css",
-    "static/js/main.aca2003a.chunk.js"
+    "static/js/main.827df56c.chunk.js"
   ]
 }

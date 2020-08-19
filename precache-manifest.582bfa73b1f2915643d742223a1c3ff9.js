@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6695e2933d97dd70ef2414a835b441bc",
+    "revision": "fce1fa1216b70ca03238f0bad1617bc1",
     "url": "/jaytopiwala-portfolio/index.html"
   },
   {
-    "revision": "50e816d149d21d897d72",
+    "revision": "c94951bb92420f595056",
     "url": "/jaytopiwala-portfolio/static/css/main.a0ebab53.chunk.css"
   },
   {
-    "revision": "2c3a6cebe25dc12e20e1",
-    "url": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js"
+    "revision": "bd1c486fdd88d6566696",
+    "url": "/jaytopiwala-portfolio/static/js/2.b731ebcf.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/jaytopiwala-portfolio/static/js/2.514ba988.chunk.js.LICENSE.txt"
+    "url": "/jaytopiwala-portfolio/static/js/2.b731ebcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50e816d149d21d897d72",
-    "url": "/jaytopiwala-portfolio/static/js/main.aca2003a.chunk.js"
+    "revision": "c94951bb92420f595056",
+    "url": "/jaytopiwala-portfolio/static/js/main.827df56c.chunk.js"
   },
   {
     "revision": "b82d993e8663a304fede",
     "url": "/jaytopiwala-portfolio/static/js/runtime-main.b93e8df9.js"
-  },
-  {
-    "revision": "9028731680cb3c2cdeec77c56664614c",
-    "url": "/jaytopiwala-portfolio/static/media/apollo.90287316.jpg"
   },
   {
     "revision": "5590bcc8147ad959f08ee35fad45ba08",
